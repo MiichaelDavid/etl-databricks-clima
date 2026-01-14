@@ -2,6 +2,8 @@
 
 Projeto de ETL desenvolvido no Databricks para monitorar o clima das capitais brasileiras em tempo real.
 
+<img width="1722" height="849" alt="image" src="https://github.com/user-attachments/assets/7c881831-d05d-4ca3-96aa-581babc57e3f" />
+
 ## 🛠️ Tecnologias Utilizadas
 - **Databricks (Community Edition)**
 - **Python (PySpark & Requests)**
